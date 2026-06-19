@@ -126,13 +126,13 @@ class CRUD_Linked_List:
         return False
 
 
-ll = CRUD_Linked_List()
+# ll = CRUD_Linked_List()
 
-ll.add(2)
-ll.add(3)
-ll.add(4)
-ll.add(5)
-ll.add(6)
+# ll.add(2)
+# ll.add(3)
+# ll.add(4)
+# ll.add(5)
+# ll.add(6)
 
 # delete by value
 # print("Present") if ll.is_value_present(3) else print("Not Present")
@@ -146,4 +146,4 @@ ll.add(6)
 
 # ll.update_by_value(6,10)
 # ll.update_by_position(5,10)
-ll.iterate()
+# ll.iterate()
